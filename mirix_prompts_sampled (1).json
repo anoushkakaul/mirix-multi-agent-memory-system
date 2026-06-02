@@ -1,0 +1,562 @@
+[
+  {
+    "type": "core",
+    "input": "My name is Ria."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "My name is Ria."
+  },
+  {
+    "type": "core",
+    "input": "I like pizza."
+  },
+  {
+    "type": "core",
+    "input": "My name is Ria."
+  },
+  {
+    "type": "core",
+    "input": "I enjoy swimming."
+  },
+  {
+    "type": "core",
+    "input": "I love watching movies."
+  },
+  {
+    "type": "core",
+    "input": "My name is Ria."
+  },
+  {
+    "type": "core",
+    "input": "I like pizza."
+  },
+  {
+    "type": "core",
+    "input": "I love watching movies."
+  },
+  {
+    "type": "core",
+    "input": "I love watching movies."
+  },
+  {
+    "type": "core",
+    "input": "My name is Ria."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "I like pizza."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "I love watching movies."
+  },
+  {
+    "type": "core",
+    "input": "My best friend is Sam."
+  },
+  {
+    "type": "core",
+    "input": "I love watching movies."
+  },
+  {
+    "type": "episodic",
+    "input": "I did laundry today."
+  },
+  {
+    "type": "episodic",
+    "input": "Today I went to the gym."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "Yesterday I met my cousin."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "I did laundry today."
+  },
+  {
+    "type": "episodic",
+    "input": "Today I went to the gym."
+  },
+  {
+    "type": "episodic",
+    "input": "Last week I visited Delhi."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "Today I went to the gym."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "I did laundry today."
+  },
+  {
+    "type": "episodic",
+    "input": "Today I went to the gym."
+  },
+  {
+    "type": "episodic",
+    "input": "I did laundry today."
+  },
+  {
+    "type": "episodic",
+    "input": "I did laundry today."
+  },
+  {
+    "type": "episodic",
+    "input": "Yesterday I met my cousin."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "episodic",
+    "input": "This morning I made tea."
+  },
+  {
+    "type": "noise",
+    "input": "Totally unrelated input."
+  },
+  {
+    "type": "noise",
+    "input": "Not sure what I'm typing."
+  },
+  {
+    "type": "noise",
+    "input": "Totally unrelated input."
+  },
+  {
+    "type": "noise",
+    "input": "Blah blah memory something."
+  },
+  {
+    "type": "noise",
+    "input": "Just some random gibberish here."
+  },
+  {
+    "type": "noise",
+    "input": "Totally unrelated input."
+  },
+  {
+    "type": "noise",
+    "input": "Totally unrelated input."
+  },
+  {
+    "type": "noise",
+    "input": "Blah blah memory something."
+  },
+  {
+    "type": "noise",
+    "input": "Not sure what I'm typing."
+  },
+  {
+    "type": "noise",
+    "input": "Just some random gibberish here."
+  },
+  {
+    "type": "noise",
+    "input": "Just some random gibberish here."
+  },
+  {
+    "type": "noise",
+    "input": "Just some random gibberish here."
+  },
+  {
+    "type": "noise",
+    "input": "Just some random gibberish here."
+  },
+  {
+    "type": "noise",
+    "input": "Blue sky watermelon turtle!"
+  },
+  {
+    "type": "noise",
+    "input": "Blah blah memory something."
+  },
+  {
+    "type": "noise",
+    "input": "Blue sky watermelon turtle!"
+  },
+  {
+    "type": "noise",
+    "input": "Not sure what I'm typing."
+  },
+  {
+    "type": "noise",
+    "input": "Blah blah memory something."
+  },
+  {
+    "type": "noise",
+    "input": "Not sure what I'm typing."
+  },
+  {
+    "type": "noise",
+    "input": "Not sure what I'm typing."
+  },
+  {
+    "type": "procedural",
+    "input": "How to train a model in Python?"
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "How to reset your password?"
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to upload a file."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to upload a file."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "How to train a model in Python?"
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to upload a file."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to upload a file."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "How to train a model in Python?"
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to upload a file."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to bake a cake."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+  },
+  {
+    "type": "procedural",
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "You can find it in the attached PDF."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "You can find it in the attached PDF."
+  },
+  {
+    "type": "resource",
+    "input": "Download the resource from the document."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "The presentation is in the document."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "The presentation is in the document."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "You can find it in the attached PDF."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "This document contains the syllabus."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "resource",
+    "input": "You can find it in the attached PDF."
+  },
+  {
+    "type": "resource",
+    "input": "Check the PDF linked in the email."
+  },
+  {
+    "type": "semantic",
+    "input": "Photosynthesis is defined as how plants make food."
+  },
+  {
+    "type": "semantic",
+    "input": "Gravity is defined as the force that pulls objects down."
+  },
+  {
+    "type": "semantic",
+    "input": "Democracy means rule by the people."
+  },
+  {
+    "type": "semantic",
+    "input": "Democracy means rule by the people."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "Democracy means rule by the people."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "Gravity is defined as the force that pulls objects down."
+  },
+  {
+    "type": "semantic",
+    "input": "Gravity is defined as the force that pulls objects down."
+  },
+  {
+    "type": "semantic",
+    "input": "AI means artificial intelligence."
+  },
+  {
+    "type": "semantic",
+    "input": "Gravity is defined as the force that pulls objects down."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "MIRIX is defined as a multi-agent memory system."
+  },
+  {
+    "type": "semantic",
+    "input": "Photosynthesis is defined as how plants make food."
+  },
+  {
+    "type": "semantic",
+    "input": "Democracy means rule by the people."
+  },
+  {
+    "type": "semantic",
+    "input": "Democracy means rule by the people."
+  },
+  {
+    "type": "vault",
+    "input": "Save login credentials."
+  },
+  {
+    "type": "vault",
+    "input": "API key is sk-xxx"
+  },
+  {
+    "type": "vault",
+    "input": "Save login credentials."
+  },
+  {
+    "type": "vault",
+    "input": "Password: qwerty123"
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "Password: qwerty123"
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "Save login credentials."
+  },
+  {
+    "type": "vault",
+    "input": "Store my password securely."
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "Save login credentials."
+  },
+  {
+    "type": "vault",
+    "input": "Password: qwerty123"
+  },
+  {
+    "type": "vault",
+    "input": "API key is sk-xxx"
+  },
+  {
+    "type": "vault",
+    "input": "My email is test@example.com."
+  },
+  {
+    "type": "vault",
+    "input": "Password: qwerty123"
+  },
+  {
+    "type": "vault",
+    "input": "API key is sk-xxx"
+  },
+  {
+    "type": "vault",
+    "input": "Store my password securely."
+  },
+  {
+    "type": "vault",
+    "input": "Password: qwerty123"
+  }
+]

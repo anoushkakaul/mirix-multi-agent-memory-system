@@ -1,0 +1,702 @@
+[
+  {
+    "input": "My name is Ria.",
+    "expected_type": "core",
+    "output": "The name \"Ria\" belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, \"Ria\" is likely a name that is associated with specific events or experiences in the individual's life, making it a part of their episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement \"My best friend is Sam\" refers to a specific personal relationship with someone named Sam, making it an episodic memory."
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement \"My best friend is Sam\" refers to a specific personal relationship with someone named Sam, which is a unique and individualized memory. It is a specific event or experience that is tied to a particular time and place, making it an episodic memory."
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement refers to a specific person, \"Sam,\" who is identified as the speaker's best friend. This memory involves a personal relationship and a specific event (the friendship with Sam), making it an episodic memory."
+  },
+  {
+    "input": "My name is Ria.",
+    "expected_type": "core",
+    "output": "The name \"Ria\" belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, \"Ria\" is a personal name that likely holds significance and meaning to the individual, making it a part of their episodic memory. The name \"Ria\" may be associated with specific events or experiences in the individual's life, making it a part of their personal history and episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "I like pizza.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. In this case, the statement \"I like pizza\" likely refers to a specific event or experience where the individual enjoyed eating pizza. This memory is tied to a specific time and place, making it an episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "My name is Ria.",
+    "expected_type": "core",
+    "output": "The name \"Ria\" belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, \"Ria\" is likely a name that is associated with specific events or experiences in the individual's life, making it a part of their episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "I enjoy swimming.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. The statement \"I enjoy swimming\" reflects a personal experience or event related to the act of swimming, making it a part of episodic memory. This memory type allows individuals to remember specific details about past events and experiences, such as the feeling of enjoyment while swimming."
+  },
+  {
+    "input": "I love watching movies.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. In this case, the individual is recalling their enjoyment of watching movies, which is a specific event or experience that they have had in the past. Episodic memory allows us to remember personal experiences and events in our lives, such as watching movies, and is important for forming a sense of self and personal identity."
+  },
+  {
+    "input": "My name is Ria.",
+    "expected_type": "core",
+    "output": "The name \"Ria\" belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, \"Ria\" is likely a name that is associated with specific events or experiences in the individual's life, making it a part of their episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "I like pizza.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. In this case, the statement \"I like pizza\" likely refers to a specific event or experience where the individual enjoyed eating pizza. This memory is tied to a specific time and place, making it an episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "I love watching movies.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. In this case, the individual is recalling their enjoyment of watching movies, which is a specific event or experience that they have had in the past. Episodic memory allows us to remember personal experiences and events in our lives, helping us to form a sense of self and identity."
+  },
+  {
+    "input": "I love watching movies.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. In this case, the individual is recalling their enjoyment of watching movies, which is a specific event or experience that they have had in the past. Episodic memory allows us to remember personal experiences and events in our lives, such as watching movies, and is important for forming a sense of self and personal identity."
+  },
+  {
+    "input": "My name is Ria.",
+    "expected_type": "core",
+    "output": "The name \"Ria\" belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, \"Ria\" is likely a name that is associated with specific events or experiences in the individual's life, making it a part of their episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement \"My best friend is Sam\" refers to a specific personal relationship with someone named Sam, making it an episodic memory."
+  },
+  {
+    "input": "I like pizza.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. In this case, the statement \"I like pizza\" likely refers to a specific event or experience where the individual enjoyed eating pizza. This memory is tied to a specific time and place, making it an episodic memory. [Stored in Core Memory]"
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement \"My best friend is Sam\" refers to a specific personal relationship with someone named Sam, making it an episodic memory."
+  },
+  {
+    "input": "I love watching movies.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. In this case, the individual is recalling their enjoyment of watching movies, which is a specific event or experience that they have had in the past. Episodic memory allows us to remember personal experiences and events in our lives, such as watching movies, and is important for forming a sense of self and personal identity."
+  },
+  {
+    "input": "My best friend is Sam.",
+    "expected_type": "core",
+    "output": "This statement belongs to the episodic memory type. Episodic memory involves the recollection of specific events, experiences, and personal relationships that have occurred in the past. In this case, the statement \"My best friend is Sam\" refers to a specific personal relationship with someone named Sam, making it an episodic memory."
+  },
+  {
+    "input": "I love watching movies.",
+    "expected_type": "core",
+    "output": "This statement belongs to episodic memory, which is a type of long-term memory that involves the recollection of specific events, situations, and experiences. In this case, the individual is recalling their enjoyment of watching movies, which is a specific event or experience that they have had in the past. Episodic memory allows us to remember personal experiences and events in our lives, such as watching movies, and is important for forming a sense of self and personal identity."
+  },
+  {
+    "input": "I did laundry today.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves personal experiences and events that have occurred at a specific time and place. Doing laundry is a specific event that occurred on a particular day, making it an episodic memory. [Stored in Episodic Memory]"
+  },
+  {
+    "input": "Today I went to the gym.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have occurred in a specific time and place. Going to the gym is a specific event that happened on a particular day, making it an episodic memory."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events. Making tea in the morning is a specific event that occurred at a particular time and place, making it a part of your episodic memory. This memory is unique to you and is tied to your personal experiences and daily routines."
+  },
+  {
+    "input": "Yesterday I met my cousin.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves the recollection of specific events, experiences, and personal interactions that occurred at a particular time and place. In this case, meeting your cousin yesterday is a specific event that occurred at a particular time, making it an episodic memory."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "I did laundry today.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Doing laundry is a specific event that occurred on a particular day, making it an episodic memory. [Stored in Episodic Memory]"
+  },
+  {
+    "input": "Today I went to the gym.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have occurred in a specific time and place. Going to the gym is a specific event that happened on a particular day, making it an episodic memory."
+  },
+  {
+    "input": "Last week I visited Delhi.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have been personally experienced at a particular time and place. In this case, the memory of visiting Delhi last week involves recalling a specific event (the visit to Delhi), the time frame (last week), and the place (Delhi). This memory is unique to the individual and is tied to a specific episode in their life, making it an episodic memory."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "Today I went to the gym.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have occurred in a specific time and place. Going to the gym is a specific event that happened on a particular day, making it an episodic memory."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "I did laundry today.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Doing laundry is a specific event that occurred on a particular day, making it an episodic memory. [Stored in Episodic Memory]"
+  },
+  {
+    "input": "Today I went to the gym.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have occurred in a specific time and place. Going to the gym is a specific event that happened on a particular day, making it an episodic memory."
+  },
+  {
+    "input": "I did laundry today.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves the recollection of specific events, experiences, and personal activities that occurred at a particular time and place. Doing laundry is a specific event that occurred on a particular day, making it an episodic memory. [Stored in Episodic Memory]"
+  },
+  {
+    "input": "I did laundry today.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves personal experiences and events that have occurred at a specific time and place. Doing laundry is a specific event that occurred on a particular day, making it an episodic memory. [Stored in Episodic Memory]"
+  },
+  {
+    "input": "Yesterday I met my cousin.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to the category of episodic memory. Episodic memory is the type of memory that involves the recollection of specific events, experiences, and personal interactions that occurred at a particular time and place. In this case, meeting your cousin yesterday is a specific event that occurred at a particular time, making it an episodic memory."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "This morning I made tea.",
+    "expected_type": "episodic",
+    "output": "This memory belongs to episodic memory, which is the type of memory that involves personal experiences and events that have been experienced at a specific time and place. Making tea in the morning is a specific event that occurred at a particular time, making it an episodic memory. This memory is unique to the individual and is tied to the context in which it occurred."
+  },
+  {
+    "input": "Totally unrelated input.",
+    "expected_type": "noise",
+    "output": "I'm sorry, but I cannot provide an answer to this question as it does not make sense in the context of the input provided. If you have a different question or topic you would like to discuss, please feel free to ask!"
+  },
+  {
+    "input": "Not sure what I'm typing.",
+    "expected_type": "noise",
+    "output": "It seems like you are describing a situation where you are unsure of what you are typing. This could be related to short-term memory, as it involves the immediate processing and storage of information. Short-term memory is responsible for holding onto information temporarily while we are actively using it, such as when typing or writing. It has a limited capacity and duration, typically lasting only a few seconds to a minute."
+  },
+  {
+    "input": "Totally unrelated input.",
+    "expected_type": "noise",
+    "output": "I'm sorry, but I cannot provide an answer to this question as it does not make sense in the context of the unrelated input provided. If you have a different question or topic you would like to discuss, please feel free to ask!"
+  },
+  {
+    "input": "Blah blah memory something.",
+    "expected_type": "noise",
+    "output": "The user prompt \"Blah blah memory something\" does not provide enough context to determine which specific type of memory it belongs to. However, based on the vague and nonspecific nature of the prompt, it could potentially be associated with episodic memory. Episodic memory involves the recollection of specific events or experiences that have occurred in the past, and the phrase \"memory something\" could suggest a general recollection of a past event without providing specific details."
+  },
+  {
+    "input": "Just some random gibberish here.",
+    "expected_type": "noise",
+    "output": "The random gibberish does not belong to any specific memory type as it does not contain any meaningful information or context that can be associated with a particular memory type. It is simply nonsensical and does not fit into any category of memory."
+  },
+  {
+    "input": "Totally unrelated input.",
+    "expected_type": "noise",
+    "output": "I'm sorry, but I cannot provide an answer to this question as it does not make sense in the context of the unrelated input provided. If you have a different question or topic you would like to discuss, please feel free to ask!"
+  },
+  {
+    "input": "Totally unrelated input.",
+    "expected_type": "noise",
+    "output": "I'm sorry, but I cannot provide an answer to this question as it does not make sense in the context of the input provided. If you have a different question or topic you would like to discuss, please feel free to ask!"
+  },
+  {
+    "input": "Blah blah memory something.",
+    "expected_type": "noise",
+    "output": "The user prompt \"Blah blah memory something\" does not provide enough context to determine which specific type of memory it belongs to. However, based on the vague and nonspecific nature of the prompt, it could potentially be associated with episodic memory. Episodic memory involves the recollection of specific events or experiences that have occurred in the past, and the phrase \"memory something\" could suggest a general recollection of a past event without providing specific details."
+  },
+  {
+    "input": "Not sure what I'm typing.",
+    "expected_type": "noise",
+    "output": "It seems like you are describing a situation where you are unsure of what you are typing. This could be related to short-term memory, as it involves the immediate recall and processing of information. Short-term memory is responsible for holding a limited amount of information for a short period of time, such as remembering what you are typing in the moment."
+  },
+  {
+    "input": "Just some random gibberish here.",
+    "expected_type": "noise",
+    "output": "The random gibberish does not belong to any specific memory type as it does not contain any meaningful information or context that can be associated with a particular memory type. It is simply nonsensical and does not fit into any category of memory."
+  },
+  {
+    "input": "Just some random gibberish here.",
+    "expected_type": "noise",
+    "output": "The random gibberish does not belong to any specific memory type as it does not contain any meaningful information or context that can be associated with a particular memory type. It is simply nonsensical and does not fit into any category of memory."
+  },
+  {
+    "input": "Just some random gibberish here.",
+    "expected_type": "noise",
+    "output": "The random gibberish does not belong to any specific memory type as it does not contain any meaningful information or context that can be associated with a particular memory type. It is simply nonsensical and does not fit into any category of memory."
+  },
+  {
+    "input": "Just some random gibberish here.",
+    "expected_type": "noise",
+    "output": "The random gibberish does not belong to any specific memory type as it does not contain any meaningful information or context that can be categorized. It is simply a string of nonsensical words or characters that do not fit into any memory classification."
+  },
+  {
+    "input": "Blue sky watermelon turtle!",
+    "expected_type": "noise",
+    "output": "This phrase belongs to the category of episodic memory. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred at a particular time and place. In this case, the phrase \"blue sky watermelon turtle\" likely represents a unique and specific event or experience that someone has encountered, making it a part of their episodic memory. The combination of these seemingly unrelated elements may trigger a specific memory or experience that is tied to a particular time and place in the individual's life."
+  },
+  {
+    "input": "Blah blah memory something.",
+    "expected_type": "noise",
+    "output": "The user prompt \"Blah blah memory something\" does not provide enough context to determine which specific type of memory it belongs to. However, based on the vague and nonspecific nature of the prompt, it could potentially be associated with episodic memory. Episodic memory involves the recollection of specific events or experiences that have occurred in the past, and the phrase \"memory something\" could suggest a general recollection of a past event without providing specific details."
+  },
+  {
+    "input": "Blue sky watermelon turtle!",
+    "expected_type": "noise",
+    "output": "This phrase belongs to the category of episodic memory. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences that have occurred at a particular time and place. In this case, the phrase \"blue sky watermelon turtle\" likely represents a unique and specific event or experience that someone has encountered, making it a part of their episodic memory. The combination of these seemingly unrelated words may trigger a specific memory or association for an individual, linking it to a particular time and place in their past."
+  },
+  {
+    "input": "Not sure what I'm typing.",
+    "expected_type": "noise",
+    "output": "It seems like you are describing a situation where you are unsure of what you are typing. This could be related to short-term memory, as it involves the immediate recall and processing of information. Short-term memory is responsible for holding a limited amount of information for a short period of time, such as remembering a phone number while dialing it. In this case, your uncertainty about what you are typing could be attributed to the temporary nature of short-term memory."
+  },
+  {
+    "input": "Blah blah memory something.",
+    "expected_type": "noise",
+    "output": "The user prompt \"Blah blah memory something\" does not provide enough context to determine which specific type of memory it belongs to. However, based on the vague and nonspecific nature of the prompt, it could potentially be associated with episodic memory. Episodic memory involves the recollection of specific events or experiences that have occurred in the past, and the phrase \"memory something\" could be interpreted as a vague reference to a particular memory or event."
+  },
+  {
+    "input": "Not sure what I'm typing.",
+    "expected_type": "noise",
+    "output": "It seems like you are describing a situation where you are unsure of what you are typing. This could be related to short-term memory, as it involves the immediate recall and processing of information. Short-term memory is responsible for holding a small amount of information for a short period of time, such as remembering what you are typing in the moment."
+  },
+  {
+    "input": "Not sure what I'm typing.",
+    "expected_type": "noise",
+    "output": "It seems like you are describing a situation where you are unsure of what you are typing. This could be related to short-term memory, as it involves the immediate recall and processing of information. Short-term memory is responsible for holding a limited amount of information for a short period of time, such as remembering what you are typing in the moment."
+  },
+  {
+    "input": "How to train a model in Python?",
+    "expected_type": "procedural",
+    "output": "To train a model in Python, you can follow these steps:\n\n1. Import the necessary libraries such as numpy, pandas, scikit-learn, etc.\n2. Load your dataset using pandas or any other data loading method.\n3. Preprocess your data by handling missing values, encoding categorical variables, scaling features, etc.\n4. Split your data into training and testing sets using train_test_split from scikit-learn.\n5. Choose a machine learning algorithm such as linear regression, decision tree, random forest, etc. based on your problem.\n6. Create an instance of the chosen model and fit it to the training data using the fit method.\n7. Evaluate the model's performance on the testing data using metrics such as accuracy, precision, recall, etc.\n8. Fine-tune the model by adjusting hyperparameters and retraining if necessary.\n\nThe memory type that the trained model belongs to is RAM (Random Access Memory). This is because the model is stored in the computer's memory while it is being trained and used for making predictions. RAM is used for storing data and instructions that are actively being used by the CPU, making it the appropriate memory type for storing the trained model during the training and prediction process."
+  },
+  {
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes.",
+    "expected_type": "procedural",
+    "output": "This step-by-step process of making pasta belongs to procedural memory. Procedural memory is a type of long-term memory that involves remembering how to perform certain tasks or activities, such as riding a bike or tying your shoes. In this case, the steps for making pasta involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often automatic and does not require conscious effort once the task has been learned."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform various tasks or activities, such as baking a cake. It involves the ability to recall and execute specific sequences of actions or steps in the correct order. In this case, the steps to bake a cake involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often associated with skills and habits that are learned through practice and repetition."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform various tasks or activities, such as baking a cake. It involves the step-by-step processes and sequences involved in completing a specific task. In this case, the prompt outlines the specific steps needed to bake a cake, which falls under the category of procedural memory."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform various tasks or activities, such as baking a cake. It involves the ability to recall and execute specific sequences of actions or steps in the correct order. In this case, the steps to bake a cake involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often associated with skills and habits that are learned through practice and repetition."
+  },
+  {
+    "input": "How to reset your password?",
+    "expected_type": "procedural",
+    "output": "This question belongs to the procedural memory type. Procedural memory involves remembering how to perform certain tasks or procedures, such as resetting a password. This type of memory is responsible for storing information about how to do things, rather than facts or events. In this case, the question is asking for a step-by-step process on how to reset a password, which falls under procedural memory. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Steps to upload a file.",
+    "expected_type": "procedural",
+    "output": "Steps to upload a file:\n\n1. Open the file explorer on your device.\n2. Navigate to the location of the file you want to upload.\n3. Select the file by clicking on it.\n4. Right-click on the file and choose the option to upload or share.\n5. Choose the destination where you want to upload the file, such as a cloud storage service or a website.\n6. Follow the prompts to complete the upload process.\n\nThe file being uploaded belongs to the secondary memory type. Secondary memory, also known as external memory, is non-volatile storage that is used to store data for long-term use. This includes hard drives, solid-state drives, USB flash drives, and memory cards. When you upload a file, you are transferring it from the secondary memory of your device to another location, such as a cloud storage service or a website."
+  },
+  {
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes.",
+    "expected_type": "procedural",
+    "output": "This step-by-step process of making pasta belongs to procedural memory. Procedural memory is a type of long-term memory that involves remembering how to perform certain tasks or activities, such as riding a bike or cooking a recipe. In this case, the steps to make pasta involve a series of actions that need to be followed in a specific order to achieve the desired outcome, which is cooking the pasta to perfection. This type of memory is often automatic and does not require conscious effort once the task has been learned and practiced."
+  },
+  {
+    "input": "Steps to upload a file.",
+    "expected_type": "procedural",
+    "output": "Steps to upload a file:\n\n1. Open the file explorer on your device.\n2. Navigate to the location of the file you want to upload.\n3. Select the file by clicking on it.\n4. Right-click on the file and choose the option to upload or share.\n5. Choose the destination where you want to upload the file, such as a cloud storage service or a website.\n6. Follow the prompts to complete the upload process.\n\nThe file being uploaded belongs to the secondary memory type. Secondary memory, also known as external memory, is non-volatile storage that is used to store data for long-term use. This includes hard drives, solid-state drives, USB flash drives, and memory cards. When you upload a file, you are transferring it from the secondary memory of your device to another location, such as a cloud storage service or a website."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform various tasks or activities, such as baking a cake. It involves the ability to recall and execute specific sequences of actions or steps in the correct order. In this case, the steps to bake a cake involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often associated with skills and habits that are learned through practice and repetition."
+  },
+  {
+    "input": "How to train a model in Python?",
+    "expected_type": "procedural",
+    "output": "To train a model in Python, you can follow these steps:\n\n1. Import the necessary libraries such as scikit-learn, TensorFlow, or PyTorch.\n2. Prepare your dataset by loading and preprocessing the data.\n3. Split the dataset into training and testing sets.\n4. Choose a machine learning algorithm or neural network architecture to train your model.\n5. Fit the model to the training data using the `fit()` method.\n6. Evaluate the model's performance on the testing data using metrics such as accuracy, precision, recall, or F1 score.\n7. Fine-tune the model by adjusting hyperparameters or trying different algorithms/architectures.\n\nThe memory type that a trained model belongs to is typically RAM (Random Access Memory). This is because the model needs to be loaded into memory in order to make predictions on new data. RAM is used for storing data that is actively being used by the computer's processor, making it ideal for storing the trained model and any necessary data structures for prediction. Additionally, RAM is fast and allows for quick access to the model, which is important for real-time or near-real-time applications."
+  },
+  {
+    "input": "Steps to upload a file.",
+    "expected_type": "procedural",
+    "output": "Steps to upload a file:\n\n1. Open the file explorer on your device.\n2. Navigate to the location of the file you want to upload.\n3. Select the file by clicking on it.\n4. Right-click on the file and choose the option to upload or share.\n5. Choose the destination where you want to upload the file, such as a cloud storage service or a website.\n6. Follow the prompts to complete the upload process.\n\nThe file being uploaded belongs to the secondary memory type. Secondary memory, also known as external memory, is non-volatile storage that is used to store data for long-term use. This includes hard drives, solid-state drives, USB flash drives, and memory cards. When you upload a file, you are transferring it from the secondary memory of your device to another location, such as a cloud storage service or a website."
+  },
+  {
+    "input": "Steps to upload a file.",
+    "expected_type": "procedural",
+    "output": "Steps to upload a file:\n\n1. Open the file explorer on your device.\n2. Navigate to the location of the file you want to upload.\n3. Select the file by clicking on it.\n4. Right-click on the file and choose the option to upload or share.\n5. Choose the destination where you want to upload the file, such as a cloud storage service or a website.\n6. Follow the prompts to complete the upload process.\n\nThe file being uploaded belongs to the secondary memory type. Secondary memory is non-volatile storage that retains data even when the power is turned off. This includes hard drives, solid-state drives, USB flash drives, and memory cards. When you upload a file, you are transferring it from a secondary memory device to another location, such as a cloud storage service or a website."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform various tasks or activities, such as baking a cake. It involves the ability to recall and execute specific sequences of actions or steps in the correct order. In this case, the steps to bake a cake involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often associated with skills and habits that are learned through practice and repetition."
+  },
+  {
+    "input": "How to train a model in Python?",
+    "expected_type": "procedural",
+    "output": "To train a model in Python, you can follow these steps:\n\n1. Import the necessary libraries such as numpy, pandas, scikit-learn, etc.\n2. Load your dataset using pandas or any other data loading method.\n3. Preprocess your data by handling missing values, encoding categorical variables, scaling features, etc.\n4. Split your data into training and testing sets using train_test_split from scikit-learn.\n5. Choose a machine learning algorithm such as linear regression, decision tree, random forest, etc. based on your problem.\n6. Create an instance of the chosen model and fit it to the training data using the fit method.\n7. Evaluate the model's performance on the testing data using metrics such as accuracy, precision, recall, etc.\n8. Fine-tune the model by adjusting hyperparameters using techniques like grid search or random search.\n9. Once you are satisfied with the model's performance, you can use it to make predictions on new data.\n\nThe memory type that the trained model belongs to is RAM (Random Access Memory). This is because the model is stored in the computer's memory while it is being trained and used for making predictions. RAM is used for storing data and instructions that are actively being used by the CPU, making it the appropriate memory type for storing the trained model during the prediction phase."
+  },
+  {
+    "input": "Steps to upload a file.",
+    "expected_type": "procedural",
+    "output": "Steps to upload a file:\n\n1. Open the file explorer on your device.\n2. Navigate to the location of the file you want to upload.\n3. Select the file by clicking on it.\n4. Right-click on the file and choose the \"Upload\" option from the menu.\n5. A window will pop up prompting you to select the destination where you want to upload the file.\n6. Choose the destination and click \"Upload\" or \"OK\" to start the upload process.\n7. Wait for the file to finish uploading, and you will receive a confirmation message once it is complete.\n\nThe file belongs to the storage memory type because it is a digital data file that is stored on a device's storage drive, such as a hard drive, solid-state drive, or external storage device. When you upload a file, you are transferring it from your device's storage memory to another location, such as a cloud storage service or a website."
+  },
+  {
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes.",
+    "expected_type": "procedural",
+    "output": "This step-by-step process of making pasta belongs to procedural memory. Procedural memory is a type of long-term memory that involves remembering how to perform certain tasks or activities, such as riding a bike or tying your shoes. In this case, the steps for making pasta involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often automatic and does not require conscious effort once the task has been learned."
+  },
+  {
+    "input": "Steps to bake a cake.",
+    "expected_type": "procedural",
+    "output": "This user prompt belongs to the procedural memory type. Procedural memory is responsible for storing information about how to perform certain tasks or activities, such as baking a cake. It involves the step-by-step process of carrying out a specific task, like following a recipe, mixing ingredients, and baking the cake. This type of memory is often associated with motor skills and repetitive actions, making it essential for learning and performing various tasks."
+  },
+  {
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes.",
+    "expected_type": "procedural",
+    "output": "This step-by-step process of making pasta belongs to procedural memory. Procedural memory is a type of long-term memory that involves remembering how to perform certain tasks or activities, such as riding a bike or cooking a recipe. In this case, the steps to make pasta involve a series of actions that need to be followed in a specific order to achieve the desired outcome, which is cooking the pasta. This type of memory is often automatic and does not require conscious effort once the task has been learned."
+  },
+  {
+    "input": "Steps to make pasta: boil water, add pasta, cook for 10 minutes.",
+    "expected_type": "procedural",
+    "output": "This set of steps belongs to procedural memory. Procedural memory is a type of long-term memory that involves knowing how to perform different actions or skills, such as riding a bike or cooking a meal. In this case, the steps for making pasta involve a series of actions that need to be followed in a specific order to achieve the desired outcome. This type of memory is often automatic and does not require conscious effort once the skill has been learned."
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus is a document that outlines the specific events, topics, and requirements for a course, making it a part of episodic memory as it relates to a specific educational context. [Stored in Resource Memory]"
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "You can find it in the attached PDF.",
+    "expected_type": "resource",
+    "output": "I'm sorry, but I cannot access or view attached files. However, if you provide me with the information or details from the PDF, I can help you determine which memory type it belongs to and explain why."
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus is a document that outlines the specific events, topics, and requirements for a course, making it a part of episodic memory as it relates to a specific educational context. [Stored in Resource Memory]"
+  },
+  {
+    "input": "You can find it in the attached PDF.",
+    "expected_type": "resource",
+    "output": "I'm sorry, but as an AI text-based model, I am unable to view or access attached files such as PDFs. However, if you provide me with the information or details from the PDF, I would be happy to help you determine which memory type it belongs to and explain why."
+  },
+  {
+    "input": "Download the resource from the document.",
+    "expected_type": "resource",
+    "output": "The resource from the document likely belongs to the computer's secondary memory type, such as a hard drive or solid-state drive. This is because secondary memory is used for long-term storage of data and files that can be accessed and retrieved when needed. In this case, the resource is being downloaded and saved for future use, making it a suitable candidate for storage in secondary memory. Additionally, secondary memory has a larger storage capacity compared to primary memory, allowing for the storage of larger files like documents. [Stored in Resource Memory]"
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus contains information about a specific course, including its content, schedule, and requirements, which are all specific events and details that can be recalled in a particular context. This type of memory is important for remembering past experiences and events in our lives. [Stored in Resource Memory]"
+  },
+  {
+    "input": "The presentation is in the document.",
+    "expected_type": "resource",
+    "output": "The presentation document belongs to the computer's secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the computer is turned off. Presentations are typically saved as files on the computer's hard drive or other secondary storage devices such as USB drives or external hard drives. This allows the presentation to be accessed and edited at a later time without the need to recreate it from scratch. [Stored in Resource Memory]"
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus contains information about a specific course, including its content, schedule, and requirements, which are all specific events and details that can be recalled in a particular context. Therefore, the document containing the syllabus would fall under the category of episodic memory. [Stored in Resource Memory]"
+  },
+  {
+    "input": "The presentation is in the document.",
+    "expected_type": "resource",
+    "output": "The presentation document belongs to the computer's secondary memory type. This is because secondary memory is non-volatile, meaning it retains data even when the power is turned off. Presentations are typically saved on secondary storage devices such as hard drives, solid-state drives, or external storage devices like USB drives. This allows the presentation to be accessed and edited at a later time without the need for it to be constantly loaded into the computer's RAM (primary memory). [Stored in Resource Memory]"
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "You can find it in the attached PDF.",
+    "expected_type": "resource",
+    "output": "I'm sorry, but I cannot access or view attached files. However, if you provide me with the information or details from the PDF, I can help you determine which memory type it belongs to and explain why."
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus is a document that outlines the specific events, topics, and requirements for a course, making it a part of episodic memory as it relates to a specific educational context. [Stored in Resource Memory]"
+  },
+  {
+    "input": "This document contains the syllabus.",
+    "expected_type": "resource",
+    "output": "This document belongs to the episodic memory type. Episodic memory is the type of memory that involves the recollection of specific events, situations, and experiences in a particular context. In this case, the syllabus contains information about specific events (course schedule, assignments, exams) and experiences (learning objectives, course policies) related to a particular course. This information is stored in episodic memory as it is specific to a particular time and place. [Stored in Resource Memory]"
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "You can find it in the attached PDF.",
+    "expected_type": "resource",
+    "output": "I'm sorry, but I cannot access or view attached files. However, if you provide me with the information or details from the PDF, I can help you determine which memory type it belongs to and explain why."
+  },
+  {
+    "input": "Check the PDF linked in the email.",
+    "expected_type": "resource",
+    "output": "The PDF linked in the email likely belongs to the secondary memory type. Secondary memory is non-volatile, meaning it retains data even when the power is turned off. PDF files are typically stored on secondary memory devices such as hard drives, solid-state drives, or external storage devices. This allows the file to be accessed and viewed multiple times without the need for it to be constantly loaded into the computer's RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Photosynthesis is defined as how plants make food.",
+    "expected_type": "semantic",
+    "output": "Photosynthesis belongs to the category of declarative memory. Declarative memory is the type of memory that involves the conscious recollection of facts and events. In this case, the process of photosynthesis is a factual piece of information that can be consciously recalled and explained. It involves remembering the specific steps and components involved in how plants make food, making it a clear example of declarative memory. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Gravity is defined as the force that pulls objects down.",
+    "expected_type": "semantic",
+    "output": "Gravity belongs to the category of procedural memory. Procedural memory is responsible for storing information about how to perform certain tasks or skills, such as riding a bike or tying shoelaces. Gravity is a fundamental force that acts on all objects with mass, pulling them towards each other. Our understanding of gravity and its effects on objects is learned through experience and observation, making it a type of procedural memory. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Democracy means rule by the people.",
+    "expected_type": "semantic",
+    "output": "This statement belongs to the semantic memory type. Semantic memory is the type of memory that stores general knowledge and facts about the world, including concepts, ideas, and definitions. The definition of democracy as \"rule by the people\" is a general concept that falls under semantic memory because it is a fundamental understanding of the political system. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Democracy means rule by the people.",
+    "expected_type": "semantic",
+    "output": "This statement belongs to the semantic memory type. Semantic memory is the type of memory that stores general knowledge and facts about the world, including concepts, ideas, and definitions. The definition of democracy as \"rule by the people\" is a general concept that falls under semantic memory because it is a fundamental understanding of the political system. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, making it ideal for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, making it ideal for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Democracy means rule by the people.",
+    "expected_type": "semantic",
+    "output": "This statement belongs to the semantic memory type. Semantic memory is the type of memory that stores general knowledge and facts about the world, including concepts, ideas, and definitions. The definition of democracy as \"rule by the people\" is a general concept that falls under semantic memory because it is a fundamental understanding of the political system. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system where data needs to be preserved for long periods of time. Additionally, non-volatile memory is typically more durable and has a longer lifespan compared to volatile memory types, making it a more reliable choice for a multi-agent memory system. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, making it ideal for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, which is beneficial for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system where data needs to be preserved for long periods of time. Additionally, non-volatile memory is typically more durable and has faster access times compared to other memory types, making it well-suited for a multi-agent memory system that requires efficient and reliable data storage and retrieval. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Gravity is defined as the force that pulls objects down.",
+    "expected_type": "semantic",
+    "output": "Gravity belongs to the category of procedural memory. Procedural memory is responsible for storing information about how to perform certain tasks or skills, such as riding a bike or tying shoelaces. Gravity is a fundamental force that acts on all objects with mass, pulling them towards each other. Our understanding and recognition of gravity is ingrained in our procedural memory as we constantly experience and interact with this force in our daily lives. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Gravity is defined as the force that pulls objects down.",
+    "expected_type": "semantic",
+    "output": "Gravity belongs to the category of procedural memory. Procedural memory is responsible for storing information about how to perform certain tasks or skills, such as riding a bike or tying shoelaces. Gravity is a fundamental force that acts on all objects with mass, pulling them towards each other. Our understanding and knowledge of gravity are ingrained in our procedural memory as we constantly experience and interact with this force in our daily lives. We do not need to consciously think about gravity, but rather our brains automatically apply this knowledge to our movements and interactions with the physical world. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "AI means artificial intelligence.",
+    "expected_type": "semantic",
+    "output": "AI belongs to the category of long-term memory. Long-term memory is the storage of information over an extended period of time, ranging from minutes to years. AI is a complex concept that requires a deep understanding of various algorithms, models, and applications. Therefore, it is stored in long-term memory to be accessed and utilized whenever needed for problem-solving, decision-making, or learning new tasks. Additionally, long-term memory has a vast capacity to store a large amount of information, making it suitable for storing the intricate details and complexities of AI. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Gravity is defined as the force that pulls objects down.",
+    "expected_type": "semantic",
+    "output": "Gravity belongs to the category of procedural memory. Procedural memory is responsible for storing information about how to perform certain tasks or skills, such as riding a bike or tying shoelaces. Gravity is a fundamental force that acts on all objects with mass, pulling them towards each other. Our understanding and recognition of gravity is ingrained in our procedural memory as we constantly experience and interact with this force in our daily lives. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, making it ideal for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "MIRIX is defined as a multi-agent memory system.",
+    "expected_type": "semantic",
+    "output": "MIRIX belongs to the category of non-volatile memory types. This is because non-volatile memory retains data even when power is turned off, making it suitable for storing information in a multi-agent memory system like MIRIX where data needs to be preserved and accessed by multiple agents. Additionally, non-volatile memory typically has faster read and write speeds compared to traditional storage devices, making it ideal for a multi-agent memory system that requires quick access to data. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Photosynthesis is defined as how plants make food.",
+    "expected_type": "semantic",
+    "output": "Photosynthesis belongs to the category of declarative memory. Declarative memory is the type of memory that stores facts and information that can be consciously recalled and verbalized. In this case, the process of photosynthesis is a factual piece of information that can be consciously recalled and explained, making it a part of declarative memory. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Democracy means rule by the people.",
+    "expected_type": "semantic",
+    "output": "Democracy belongs to the semantic memory type. Semantic memory is the type of memory that stores general knowledge and facts about the world, including concepts, ideas, and definitions. Democracy is a concept that represents a form of government where power is vested in the people and exercised through elected representatives. It is a fundamental concept in political science and is not tied to a specific personal experience or event, making it a perfect example of semantic memory. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Democracy means rule by the people.",
+    "expected_type": "semantic",
+    "output": "This statement belongs to the semantic memory type. Semantic memory is the type of memory that stores general knowledge and facts about the world, including concepts, ideas, and definitions. The definition of democracy as \"rule by the people\" is a general concept that falls under semantic memory because it is a fundamental understanding of the political system. [Stored in Semantic Memory]"
+  },
+  {
+    "input": "Save login credentials.",
+    "expected_type": "vault",
+    "output": "The act of saving login credentials would typically involve storing the information in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the login credentials are not lost when the device is shut down or restarted. Additionally, non-volatile memory is typically used for long-term storage of data, making it a suitable choice for saving important information like login credentials."
+  },
+  {
+    "input": "API key is sk-xxx",
+    "expected_type": "vault",
+    "output": "The API key \"sk-xxx\" likely belongs to a short-term memory type. Short-term memory is temporary storage of information that is currently being used or processed. In the context of an API key, it is typically used for authentication and authorization purposes for a specific session or interaction with an application or service. Once the session or interaction is completed, the API key may no longer be needed or used, making it a short-term memory type. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Save login credentials.",
+    "expected_type": "vault",
+    "output": "The act of saving login credentials would typically involve storing the information in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the login credentials are not lost when the device is shut down or restarted. Additionally, non-volatile memory is typically used for long-term storage of data, making it a suitable choice for saving important information like login credentials."
+  },
+  {
+    "input": "Password: qwerty123",
+    "expected_type": "vault",
+    "output": "The password \"qwerty123\" belongs to the category of episodic memory. Episodic memory is a type of long-term memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, the password \"qwerty123\" is likely associated with a specific event or situation where it was created or used, making it an episodic memory. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the declarative memory type. Declarative memory is the type of memory that stores facts and information that can be consciously recalled and described. In this case, the email address is a piece of factual information that can be easily recalled and described by the individual. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the declarative memory type. Declarative memory is the type of memory that stores facts and information that can be consciously recalled and described. In this case, the email address is a piece of factual information that can be easily recalled and described by the individual. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Password: qwerty123",
+    "expected_type": "vault",
+    "output": "The password \"qwerty123\" belongs to the category of short-term memory. Short-term memory is the type of memory that temporarily holds a limited amount of information for a short period of time, typically around 15-30 seconds. In this case, the password \"qwerty123\" is likely something that a person would need to remember temporarily in order to log into a website or account, making it a good example of short-term memory. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the short-term memory type. Short-term memory is the type of memory that temporarily stores information for immediate use. In this case, the email address is being provided for a specific purpose or task, such as signing up for a service or contacting someone, and is not intended to be stored for long-term use. Once the task is completed, the email address may be forgotten or replaced with a new one. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Save login credentials.",
+    "expected_type": "vault",
+    "output": "The login credentials would typically be saved in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the login credentials are not lost when the device is shut down or restarted. Additionally, non-volatile memory is typically used for long-term storage of important data, such as login information, to ensure that it is accessible whenever needed."
+  },
+  {
+    "input": "Store my password securely.",
+    "expected_type": "vault",
+    "output": "Storing a password securely typically involves storing it in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the password is not lost. Additionally, non-volatile memory is typically more secure than volatile memory, such as RAM, which loses data when the power is turned off. By storing the password in non-volatile memory, it can be securely accessed and retrieved when needed. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the short-term memory type. Short-term memory is the type of memory that temporarily stores information for immediate use. In this case, the email address is being provided for a specific purpose or task, such as signing up for a service or contacting someone, and is not intended to be stored for long-term use. Once the task is completed, the email address may be forgotten or replaced with a new one. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the declarative memory type. Declarative memory is the type of memory that stores facts and information that can be consciously recalled and described. In this case, the email address is a piece of factual information that can be easily recalled and described by the individual. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Save login credentials.",
+    "expected_type": "vault",
+    "output": "The act of saving login credentials would typically involve storing the information in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the login credentials are not lost when the device is shut down or restarted. Additionally, non-volatile memory is typically used for long-term storage of data, making it a suitable choice for saving important information like login credentials."
+  },
+  {
+    "input": "Password: qwerty123",
+    "expected_type": "vault",
+    "output": "The password \"qwerty123\" belongs to the category of episodic memory. Episodic memory is a type of long-term memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, the password \"qwerty123\" likely represents a specific event or situation where the user created or used this password for a particular account or system. This type of memory is typically associated with personal experiences and is often linked to specific contexts or time periods. [Stored in Vault Memory]"
+  },
+  {
+    "input": "API key is sk-xxx",
+    "expected_type": "vault",
+    "output": "The API key \"sk-xxx\" likely belongs to a secure memory type. This is because API keys are sensitive pieces of information that are used to authenticate and authorize access to an API. Storing API keys in secure memory helps protect them from unauthorized access or theft. Secure memory typically includes encryption and other security measures to safeguard sensitive data like API keys. [Stored in Vault Memory]"
+  },
+  {
+    "input": "My email is test@example.com.",
+    "expected_type": "vault",
+    "output": "The email \"test@example.com\" belongs to the declarative memory type. Declarative memory is the type of memory that stores facts and information that can be consciously recalled and described. In this case, the email address is a piece of factual information that can be easily recalled and described by the individual. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Password: qwerty123",
+    "expected_type": "vault",
+    "output": "The password \"qwerty123\" belongs to the category of episodic memory. Episodic memory is a type of long-term memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, the password \"qwerty123\" likely represents a specific event or situation where the user created or used this password for a particular account or system. This type of memory is typically associated with personal experiences and is often linked to specific contexts or time periods. [Stored in Vault Memory]"
+  },
+  {
+    "input": "API key is sk-xxx",
+    "expected_type": "vault",
+    "output": "The API key \"sk-xxx\" likely belongs to a short-term memory type. Short-term memory is temporary storage of information that is currently being used or processed. In the context of an API key, it is typically used for authentication and authorization purposes for a specific session or interaction with an application or service. Once the session or interaction is completed, the API key may no longer be needed or used, making it a short-term memory type. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Store my password securely.",
+    "expected_type": "vault",
+    "output": "Storing a password securely typically involves storing it in non-volatile memory, such as a hard drive or solid-state drive. This is because non-volatile memory retains data even when the power is turned off, ensuring that the password is not lost. Additionally, non-volatile memory is typically more secure and less susceptible to data loss compared to volatile memory types like RAM. [Stored in Vault Memory]"
+  },
+  {
+    "input": "Password: qwerty123",
+    "expected_type": "vault",
+    "output": "The password \"qwerty123\" belongs to the category of episodic memory. Episodic memory is a type of long-term memory that involves the recollection of specific events, situations, and experiences that have occurred in the past. In this case, the password \"qwerty123\" is likely associated with a specific event or situation where it was created or used, making it an episodic memory. [Stored in Vault Memory]"
+  }
+]

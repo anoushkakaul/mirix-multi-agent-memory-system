@@ -1,0 +1,141 @@
+type,input
+core,My name is Ria.
+core,My best friend is Sam.
+core,My best friend is Sam.
+core,My best friend is Sam.
+core,My name is Ria.
+core,I like pizza.
+core,My name is Ria.
+core,I enjoy swimming.
+core,I love watching movies.
+core,My name is Ria.
+core,I like pizza.
+core,I love watching movies.
+core,I love watching movies.
+core,My name is Ria.
+core,My best friend is Sam.
+core,I like pizza.
+core,My best friend is Sam.
+core,I love watching movies.
+core,My best friend is Sam.
+core,I love watching movies.
+episodic,I did laundry today.
+episodic,Today I went to the gym.
+episodic,This morning I made tea.
+episodic,Yesterday I met my cousin.
+episodic,This morning I made tea.
+episodic,This morning I made tea.
+episodic,I did laundry today.
+episodic,Today I went to the gym.
+episodic,Last week I visited Delhi.
+episodic,This morning I made tea.
+episodic,Today I went to the gym.
+episodic,This morning I made tea.
+episodic,I did laundry today.
+episodic,Today I went to the gym.
+episodic,I did laundry today.
+episodic,I did laundry today.
+episodic,Yesterday I met my cousin.
+episodic,This morning I made tea.
+episodic,This morning I made tea.
+episodic,This morning I made tea.
+noise,Totally unrelated input.
+noise,Not sure what I'm typing.
+noise,Totally unrelated input.
+noise,Blah blah memory something.
+noise,Just some random gibberish here.
+noise,Totally unrelated input.
+noise,Totally unrelated input.
+noise,Blah blah memory something.
+noise,Not sure what I'm typing.
+noise,Just some random gibberish here.
+noise,Just some random gibberish here.
+noise,Just some random gibberish here.
+noise,Just some random gibberish here.
+noise,Blue sky watermelon turtle!
+noise,Blah blah memory something.
+noise,Blue sky watermelon turtle!
+noise,Not sure what I'm typing.
+noise,Blah blah memory something.
+noise,Not sure what I'm typing.
+noise,Not sure what I'm typing.
+procedural,How to train a model in Python?
+procedural,"Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+procedural,Steps to bake a cake.
+procedural,Steps to bake a cake.
+procedural,Steps to bake a cake.
+procedural,How to reset your password?
+procedural,Steps to upload a file.
+procedural,"Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+procedural,Steps to upload a file.
+procedural,Steps to bake a cake.
+procedural,How to train a model in Python?
+procedural,Steps to upload a file.
+procedural,Steps to upload a file.
+procedural,Steps to bake a cake.
+procedural,How to train a model in Python?
+procedural,Steps to upload a file.
+procedural,"Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+procedural,Steps to bake a cake.
+procedural,"Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+procedural,"Steps to make pasta: boil water, add pasta, cook for 10 minutes."
+resource,This document contains the syllabus.
+resource,Check the PDF linked in the email.
+resource,You can find it in the attached PDF.
+resource,This document contains the syllabus.
+resource,You can find it in the attached PDF.
+resource,Download the resource from the document.
+resource,Check the PDF linked in the email.
+resource,This document contains the syllabus.
+resource,The presentation is in the document.
+resource,Check the PDF linked in the email.
+resource,This document contains the syllabus.
+resource,The presentation is in the document.
+resource,Check the PDF linked in the email.
+resource,You can find it in the attached PDF.
+resource,Check the PDF linked in the email.
+resource,This document contains the syllabus.
+resource,This document contains the syllabus.
+resource,Check the PDF linked in the email.
+resource,You can find it in the attached PDF.
+resource,Check the PDF linked in the email.
+semantic,Photosynthesis is defined as how plants make food.
+semantic,Gravity is defined as the force that pulls objects down.
+semantic,Democracy means rule by the people.
+semantic,Democracy means rule by the people.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,Democracy means rule by the people.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,Gravity is defined as the force that pulls objects down.
+semantic,Gravity is defined as the force that pulls objects down.
+semantic,AI means artificial intelligence.
+semantic,Gravity is defined as the force that pulls objects down.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,MIRIX is defined as a multi-agent memory system.
+semantic,Photosynthesis is defined as how plants make food.
+semantic,Democracy means rule by the people.
+semantic,Democracy means rule by the people.
+vault,Save login credentials.
+vault,API key is sk-xxx
+vault,Save login credentials.
+vault,Password: qwerty123
+vault,My email is test@example.com.
+vault,My email is test@example.com.
+vault,Password: qwerty123
+vault,My email is test@example.com.
+vault,Save login credentials.
+vault,Store my password securely.
+vault,My email is test@example.com.
+vault,My email is test@example.com.
+vault,Save login credentials.
+vault,Password: qwerty123
+vault,API key is sk-xxx
+vault,My email is test@example.com.
+vault,Password: qwerty123
+vault,API key is sk-xxx
+vault,Store my password securely.
+vault,Password: qwerty123
